@@ -50,7 +50,7 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Nossa equipe é a cara da SEP"
   feature_item:
     # feature item loop
     - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
