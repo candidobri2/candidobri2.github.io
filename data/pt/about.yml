@@ -53,13 +53,13 @@ features:
   title : "Nossa equipe é a cara da SEP"
   feature_item:
     # feature item loop
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+    - image : "images/teams/candido.png" #ionicon pack v2 : https://ionicons.com/v2/
       name : "José Candido"
       content: "Coordenador de Pesquisa e Desenvolvimento"
       
       
     # feature item loop
-    - image : "images/teams/team-2.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+    - image : "images/teams/edgar.png" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Edgar Queiroz"
       content: "Assessor de Pesquisa e Desenvolvimento"
       
