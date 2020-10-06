@@ -6,7 +6,7 @@
 
 {{ if $data.about.features.enable }}
 {{ with $data.about.features }}
-<section class="about-feature bg-dark section dark-service">
+<section class="about-feature section dark-service">
   <div class="container">
     {{ with .title }}
     <div class="row">
@@ -18,7 +18,7 @@
       {{ range .feature_item }}
       <div class="col-md-3">
         <div class="service-item">
-          <img src="{{ .image | relURL }}" alt="client">
+          <img class=img-diferente src="{{ .image | relURL }}" alt="client">
           <h4>{{ .name | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
         </div>

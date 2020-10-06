@@ -2,7 +2,7 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
+  title : "Somos alunos doidos por <br> ideias e inovação"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
           iure officiis facere vitae itaque.
           
@@ -13,7 +13,7 @@ about:
 
   button:
     enable : true
-    label : "Download Company Profile"
+    label : "Conheça nosso Instagram"
     link : "#"
 
   funfacts:
@@ -59,18 +59,18 @@ features:
       
       
     # feature item loop
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+    - image : "images/teams/team-2.jpg" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Edgar Queiroz"
       content: "Assessor de Pesquisa e Desenvolvimento"
       
       
     # feature item loop
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+    - image : "images/teams/team-3.jpg" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Games Development"
       content: "Assessor de Pesquisa e Desenvolvimento"
       
     # feature item loop
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+    - image : "images/teams/team-2.jpg" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Animation and Editing"
       content: "Assessor de Pesquisa e Desenvolvimento"
       
@@ -80,11 +80,11 @@ features:
       content: "Assessor de Pesquisa e Desenvolvimento"
       
     # feature item loop
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+    - image : "images/teams/team-3.jpg" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Branding"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+    - image : "images/teams/team-2.jpg" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Branding"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
@@ -118,10 +118,8 @@ mission_vision:
   tabs:
     # tab item loop
     - name : "Visão"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+      url: "visao"
+      content : "uidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
       iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
       suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
       illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
@@ -129,6 +127,7 @@ mission_vision:
       
     # tab item loop
     - name : "Missão"
+      url: "missao"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
       harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
       quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
@@ -140,6 +139,7 @@ mission_vision:
       
     # tab item loop
     - name : "Valores"
+      url: "valores"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
       harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
       quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
