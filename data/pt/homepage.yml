@@ -95,22 +95,13 @@ funfacts:
 
   testimonial_slider:
     # testimonial item loop
-    - name : "Raymond Roy"
+    - name : "Gabriel Costa"
       image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      designation : "3° Semestre de Engenharia de Produção"
+      content : "Participar da SEP foi bem enriquecedor, pois durante toda a semana foi possível participar de inúmeras atividades de diversos assuntos bem atuais e interessantes, além de concorrer a prêmios. Ano passado participei da visita técnica à Ambev que foi muito massa ver a história e os processos que acontecem lá dentro. Além disso, também pude participar de dois minicursos e de algumas palestras, todas muito bem organizadas e com excelentes conteúdos abordados pelos apresentadores. Ademais, foi um evento muito irado e recomendo bastante!"
                 
     # testimonial item loop
-    - name : "Randi Renin"
+    - name : "Vinícius Santos"
       image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
-    # testimonial item loop
-    - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      designation : "3° Semestre de Engenharia de Produção"
+      content : "Participar da SEP é uma experiência que todo estudante precisa ter. Sair do ambiente acadêmico e visitar as empresas que podem vir a ser nosso campo de trabalho no futuro é o ponto alto desse evento. Além disso, gostaria de salientar a organização da SEP. A equipe sempre esteve presente. Tanto fisicamente, quanto nas redes sociais."
