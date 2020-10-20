@@ -6,33 +6,27 @@ banner:
   content : "A Semana de Engenharia de Produção está de volta para sua décima sétima edição! Com muitas mudanças em novos contextos, não fique por fora das novidades! Siga o nosso site e redes sociais para ficar sempre atualizado."
   button:
     enable : true
-    label : "Inscreva-se"
+    label : "Inscreva-se já"
     link : "pricing"
 
 ############################# About #################################
 about:
   enable : true
   title : "Queremos ser a melhor SEP da história"
-  description : " Desta maneira, o surgimento do comércio virtual nos obriga à análise do retorno esperado a longo prazo. 
-  o entendimento das metas propostas assume importantes posições no estabelecimento do sistema de participação geral."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id."
-  image : "images/ronaldinhosocer.png"
+  description : " A Semana de Engenharia de Produção data de um longo período. Há mais de 10 anos temos preparado semanas ricas em conteúdo, abordando temáticas diferentes a cada ano.
+"
+  content : "Este ano, pivotamos. Analisamos tudo que já havíamos feitos, diversas vezes sob diversas perspectivas. Escolhemos inovar. Dessa vez, traremos a SEP em um formato jamais antes visto. Preparamos não uma semana, mas um conjunto de experiências que os farão experienciar o que é a SEP 2020. Esperamos vocês!
+"
+  image : "images/melhor_sep.png"
 
 about2:
   enable : true
   title : "Pensamos alto para ir longe"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-              blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id."
-  image : "images/wrapper-img.png"
+  description : "Não medidos esforços para trazer a Semana mais imersiva que poderíamos oferecer. Trabalhamos continuamente para dar vida ao cronograma que planejamos, sempre buscando ir além do que havíamos pensado."
+  content : "Para esse ano, não estabelecemos um ponto limite. Buscamos inovar a forma como são vistas - e vividas - as semanas de engenharia, tornando a SEP uma experiência única e capaz de ultrapassar o limite do esperado. 
+
+Trouxemos inovação para irmos longe."
+  image : "images/ir_longe.png"
 
 
 ######################### Portfolio ###############################

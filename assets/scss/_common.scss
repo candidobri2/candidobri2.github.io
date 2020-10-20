@@ -64,14 +64,15 @@ input[type="tel"] {
 // Button Style
 
 .btn-main {
-  background: $primary-color;
+  background: #00FF7F;
   color: $light;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: normal;
   letter-spacing: 1px;
   padding: 14px 35px;
   text-transform: uppercase;
-  border-radius: 0;
+  border-radius: 7;
   @include transition (all, 0.2s, ease);
 
   &.btn-icon {

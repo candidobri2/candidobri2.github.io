@@ -1,15 +1,14 @@
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
+  image : "images/sobre.png"
   title : "Somos alunos doidos por <br> ideias e inovação"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
-          
-          
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  content : "Todos os anos, nós planejamos e desenvolvemos a melhor Semana de Engenharia de Produção possível. Nos esforçamos para trazer conteúdos relevantes e ricos para os nossos participantes, sempre explorando assuntos novos e diversificados a fim de expandir o conhecimento do nosso público. 
+
+
+
+Este ano, não poderia ser diferente. Iremos imergi-los na área do empreendedorismo, demonstrando a importância de ideias e mentes inovadoras para o mercado. Vem explorar a SEP conosco! 
+"
 
   button:
     enable : true
