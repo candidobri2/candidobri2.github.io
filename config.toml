@@ -59,25 +59,30 @@ URL = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Inscrições"
+name = "Inscreva-se"
 URL = "pricing"
 weight = 4
+
+[[menu.main]]
+name = "Mais"
+URL = ""
+weight = 5
 hasChildren = true
-	
+
 	[[menu.main]]
-  	parent = "Inscrições"
+  	parent = "Mais"
   	name = "Perguntas Frequentes"
   	URL = "faq"
 
 	[[menu.main]]
-  	parent = "Inscrições"
-  	name = "Inscreva-se"
-  	URL = "pricing"
+  	parent = "Mais"
+  	name = "Contato"
+  	URL = "contact"
 
-[[menu.main]]
-name = "Contato"
-URL = "contact"
-weight = 5
+	[[menu.main]]
+  	parent = "Mais"
+  	name = "Staff"
+  	URL = "staff"
 
 
 # footer menu

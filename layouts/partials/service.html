@@ -9,6 +9,9 @@
       </div>
     </div>
     <div class="row">
+      <h3>{{ .title | markdownify }}</h3>
+      <br>
+      <br>
       {{ range .service_item }}
       <div class="col-sm-6 col-md-3">
         <div class="service-item">

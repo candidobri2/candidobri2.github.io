@@ -2,7 +2,7 @@
 about:
   enable : true
   image : "images/sobre.png"
-  title : "Somos alunos doidos por <br> ideias e inovação"
+  title : "Somos alunos apaixonados por <br> ideias e inovação"
   content : "Todos os anos, nós planejamos e desenvolvemos a melhor Semana de Engenharia de Produção possível. Nos esforçamos para trazer conteúdos relevantes e ricos para os nossos participantes, sempre explorando assuntos novos e diversificados a fim de expandir o conhecimento do nosso público. 
 
 
@@ -12,8 +12,8 @@ Este ano, não poderia ser diferente. Iremos imergi-los na área do empreendedor
 
   button:
     enable : true
-    label : "Conheça nosso Instagram"
-    link : "#"
+    label : "Conheça nosso time"
+    link : "staff"
 
   funfacts:
     # funfacts loop
