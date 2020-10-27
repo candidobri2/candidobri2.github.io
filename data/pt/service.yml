@@ -39,7 +39,8 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Patrocinadores"
+  title : "Quem nos ajuda a fazer a SEP"
+  subtitle : "Patrocinadores"
   description : "Nossos lindos patrocinadores."
   service_item:
     # service item loop
@@ -62,26 +63,56 @@ service:
       name: Start Up
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
+parceiros:
+  enable : true
+  title : "Parceiros"
+  description : "Nossos lindos patrocinadores."
+  service_item:
     # service item loop
-    - image : "images/parceiros/index2.png" #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - image : "images/parceiros/index.png"
+      name: M. Dias Branco
+      content: "Fornecendo biscoitos recheados."
+
+    # service item loop
+    - image : "images/parceiros/index2.png"
+      name: AMBEV
+      content: "Sempre fornecendo grandes bebidas para gente."
 
     # service item loop
     - image : "images/parceiros/index2.png" #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
+      name: App Design
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
+    - image : "images/parceiros/index2.png" #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Start Up
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+apoiadores:
+  enable : true
+  title : "Apoiadores"
+  description : "Nossos lindos patrocinadores."
+  service_item:
+    # service item loop
+    - image : "images/parceiros/index.png"
+      name: M. Dias Branco
+      content: "Fornecendo biscoitos recheados."
+
+    # service item loop
+    - image : "images/parceiros/index2.png"
+      name: AMBEV
+      content: "Sempre fornecendo grandes bebidas para gente."
+
+    # service item loop
+    - image : "images/parceiros/index2.png" #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: App Design
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
+    - image : "images/parceiros/index2.png" #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Start Up
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
+
 ############################# call to action #################################
 cta:
   enable : true

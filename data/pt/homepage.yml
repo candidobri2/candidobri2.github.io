@@ -3,7 +3,10 @@ banner:
   enable : true
   bg_image : "images/bgsep2.png"
   title : "SEP XVII | Semana de Engenharia de Produção UFC"
-  content : "A Semana de Engenharia de Produção está de volta para sua décima sétima edição! Com muitas mudanças em novos contextos, não fique por fora das novidades! Siga o nosso site e redes sociais para ficar sempre atualizado."
+  content : "**Empreendedorismo e inovação: adaptando a engenharia de produção às novas necessidades do mercado** 
+   
+
+  A Semana de Engenharia de Produção está de volta para sua décima sétima edição! Com muitas mudanças em novos contextos, não fique por fora das novidades! Siga o nosso site e redes sociais para ficar sempre atualizado."
   button:
     enable : true
     label : "Inscreva-se já"

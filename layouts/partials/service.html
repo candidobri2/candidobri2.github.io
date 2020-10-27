@@ -9,6 +9,28 @@
       </div>
     </div>
     <div class="row">
+      <h3>{{ .subtitle | markdownify }}</h3>
+      <br>
+      <br>
+      {{ range .service_item }}
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <img src="{{ .image | relURL }}" alt="client">
+          <h4>{{ .name | markdownify }}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+    </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with $data.service.parceiros }}
+<section class="service">
+  <div class="container">
+    <div class="row">
+    <div class="row">
       <h3>{{ .title | markdownify }}</h3>
       <br>
       <br>
@@ -19,9 +41,28 @@
           <h4>{{ .name | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
         </div>
-      </div>
+    </div>
       {{ end }}
+
+      {{ with $data.service.apoiadores }}
+<section class="service">
+  <div class="container">
+    <div class="row">
+    <div class="row">
+      <h3>{{ .title | markdownify }}</h3>
+      <br>
+      <br>
+      {{ range .service_item }}
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <img src="{{ .image | relURL }}" alt="client">
+          <h4>{{ .name | markdownify }}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+    </div>
+    {{ end }}
     </div>
   </div>
 </section>
+{{ end }}
 {{ end }}
