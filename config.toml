@@ -85,31 +85,6 @@ hasChildren = true
   	URL = "staff"
 
 
-# footer menu
-[[menu.footer]]
-name = "Sobre"
-URL = "about"
-weight = 1
-
-[[menu.footer]]
-name = "Programação"
-URL = "project"
-weight = 2
-
-[[menu.footer]]
-name = "Blog"
-URL = "blog"
-weight = 3
-
-[[menu.footer]]
-name = "Inscrições"
-URL = "pricing"
-weight = 4
-
-[[menu.footer]]
-name = "Contato"
-URL = "contact"
-weight = 5
 
 
 #################### default parameters ################################
@@ -119,7 +94,7 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "PET Produção"
 # Contact Information
-phone = "997752232 | 988030808"
+phone = "994106831 | 987414628"
 email = "sep.ufc@gmail.com"
 location = "Campus do Pici | Universidade Federal do Ceará"
 # contact form action
@@ -160,7 +135,7 @@ link = "https://www.linkedin.com/company/sepufc/"
 
 [[params.social]]
 icon = "ion-social-whatsapp-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "http://api.whatsapp.com/send?phone=55085994106831"
 
 [[params.social]]
 icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
