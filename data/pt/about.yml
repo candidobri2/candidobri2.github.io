@@ -56,57 +56,102 @@ features:
       name : "José Candido"
       content: "Coordenador de Pesquisa e Desenvolvimento"
       
-      
     # feature item loop
     - image : "images/teams/edgar.png" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Edgar Queiroz"
       content: "Assessor de Pesquisa e Desenvolvimento"
       
+    # feature item loop
+    - image : "images/teams/paloma.jpeg" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Paloma Patrícia"
+      content: "Assessora de Pesquisa e Desenvolvimento"
       
     # feature item loop
-    - image : "images/teams/team-3.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Games Development"
+    - image : "images/teams/samu.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Samuel Fernandes Vieira da Ponte"
       content: "Assessor de Pesquisa e Desenvolvimento"
       
     # feature item loop
-    - image : "images/teams/team-2.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Animation and Editing"
-      content: "Assessor de Pesquisa e Desenvolvimento"
+    - image : "images/teams/aegla.jpeg" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Aêgla Debra Nunes Benevides"
+      content: "Coordenadora de Conteúdo"
       
     # feature item loop
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "UI/UX Design"
-      content: "Assessor de Pesquisa e Desenvolvimento"
-      
-    # feature item loop
-    - image : "images/teams/team-3.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - image : "images/teams/carlosh.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Carlos Heitor Barbosa Noronha "
+      content : "Assessor de Conteúdo"
     
-    - image : "images/teams/team-2.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - image : "images/teams/rebeka.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Rebeka Parente"
+      content : "Assessora de Conteúdo"
+  
+    - image : "images/teams/tulio.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Túlio Gomes"
+      content : "Assessor de Conteúdo"
 
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - image : "images/teams/vini.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Vinicius Campos"
+      content : "Assessor de Conteúdo"
 
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - image : "images/teams/lucasfarias.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lucas Farias de Sousa"
+      content : "Coordenação Geral"
 
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - image : "images/teams/mv.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Mauro Vitor da Costa Silva"
+      content : "Coordenação Geral"
 
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
+    - image : "images/teams/pl.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Pedro Lucas Amorim da Silva"
+      content : "Coordenação de Infraestrutura"
 
-    - image : "images/teams/team-1.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - image : "images/teams/gabriel.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Gabriel Sousa Mota Uchôa"
+      content : "Assessor de Infraestrutura"
+      
+    - image : "images/teams/odailson.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "José Odailson Vieira de Sousa "
+      content : "Assessor de Infraestrutura"
 
+    - image : "images/teams/quesia.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Quesia Rodrigues da Costa"
+      content : "Assessora de Infraestrutura"      
 
+    - image : "images/teams/lorran.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lorran Maciel Cavalcante"
+      content : "Coordenador de Marketing"   
+
+    - image : "images/teams/luiza.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Ana Luiza de Lima"
+      content : "Assessora de Marketing"   
+      
+    - image : "images/teams/camila.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Camila Ferreira Pará"
+      content : "Assessora de Marketing"   
+
+    - image : "images/teams/arisio.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Francisco Arisio Andrade Pereira"
+      content : "Assessor de Marketing"   
+
+    - image : "images/teams/lucasfernandes.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lucas Fernandes"
+      content : "Assessor de Marketing"   
+      
+    - image : "images/teams/adriano.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Adriano Silveira de Araújo Neto"
+      content : "Coordenador de Parcerias"   
+    
+    - image : "images/teams/george.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "George Stenphenson Batista Benicio Junior"
+      content : "Assessor de Parcerias" 
+   
+    - image : "images/teams/nai.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Naiarlisson Teixeira Fernandes"
+      content : "Assessor de Parcerias" 
+      
+    - image : "images/teams/vitoriamont.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Vitória Maciel Gurgel Montesuma"
+      content : "Assessora de Parcerias" 
 #################################### testimonial & mission vision #######################################
 testimonial:
   enable : true
