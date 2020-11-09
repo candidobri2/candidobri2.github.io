@@ -51,106 +51,107 @@ features:
   enable : true
   title : "Nossa equipe é a cara da SEP"
   feature_item:
+
+    - image : "images/teams/lucasfarias.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lucas Farias"
+      content : "Coordenação Geral"
+
+    - image : "images/teams/mv.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Mauro Vitor"
+      content : "Coordenação Geral"
+
+    - image : "images/teams/adriano.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Adriano Neto"
+      content : "Coordenador de Parcerias"
+
+    # feature item loop
+    - image : "images/teams/aegla.jpeg" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Aêgla Benevides"
+      content: "Coordenadora de Conteúdo"
+
     # feature item loop
     - image : "images/teams/candido.png" #ionicon pack v2 : https://ionicons.com/v2/
       name : "José Candido"
-      content: "Coordenador de Pesquisa e Desenvolvimento"
+      content: "Coordenador de P&D"
+
+    - image : "images/teams/lorran.png" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lorran Maciel"
+      content : "Coordenador de Marketing"   
+
+    - image : "images/teams/pl.jpg" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Pedro Lucas Amorim"
+      content : "Coordenador de Infraestrutura"
       
     # feature item loop
     - image : "images/teams/edgar.png" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Edgar Queiroz"
-      content: "Assessor de Pesquisa e Desenvolvimento"
+      content: "Assessor de P&D"
       
     # feature item loop
     - image : "images/teams/paloma.jpeg" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Paloma Patrícia"
-      content: "Assessora de Pesquisa e Desenvolvimento"
+      content: "Assessora de P&D"
       
     # feature item loop
     - image : "images/teams/samu.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Samuel Fernandes Vieira da Ponte"
-      content: "Assessor de Pesquisa e Desenvolvimento"
-      
-    # feature item loop
-    - image : "images/teams/aegla.jpeg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Aêgla Debra Nunes Benevides"
-      content: "Coordenadora de Conteúdo"
+      name : "Samuel Fernandes"
+      content: "Assessor de P&D"
       
     # feature item loop
     - image : "images/teams/carlosh.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Carlos Heitor Barbosa Noronha "
+      name : "Carlos Heitor Noronha "
       content : "Assessor de Conteúdo"
-    
+    # feature item loop
     - image : "images/teams/rebeka.png" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Rebeka Parente"
       content : "Assessora de Conteúdo"
-  
+  # feature item loop
     - image : "images/teams/tulio.png" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Túlio Gomes"
       content : "Assessor de Conteúdo"
-
+    # feature item loop  
     - image : "images/teams/vini.png" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Vinicius Campos"
       content : "Assessor de Conteúdo"
 
-    - image : "images/teams/lucasfarias.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lucas Farias de Sousa"
-      content : "Coordenação Geral"
-
-    - image : "images/teams/mv.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Mauro Vitor da Costa Silva"
-      content : "Coordenação Geral"
-
-    - image : "images/teams/pl.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Pedro Lucas Amorim da Silva"
-      content : "Coordenação de Infraestrutura"
-
     - image : "images/teams/gabriel.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Gabriel Sousa Mota Uchôa"
+      name : "Gabriel Mota"
       content : "Assessor de Infraestrutura"
       
     - image : "images/teams/odailson.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "José Odailson Vieira de Sousa "
+      name : "Odailson Vieira"
       content : "Assessor de Infraestrutura"
 
     - image : "images/teams/quesia.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Quesia Rodrigues da Costa"
+      name : "Quesia Rodrigues"
       content : "Assessora de Infraestrutura"      
 
-    - image : "images/teams/lorran.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lorran Maciel Cavalcante"
-      content : "Coordenador de Marketing"   
-
     - image : "images/teams/luiza.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Ana Luiza de Lima"
+      name : "Ana Luiza"
       content : "Assessora de Marketing"   
       
     - image : "images/teams/camila.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Camila Ferreira Pará"
+      name : "Camila Pará"
       content : "Assessora de Marketing"   
 
     - image : "images/teams/arisio.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Francisco Arisio Andrade Pereira"
+      name : "Arisio Andrade"
       content : "Assessor de Marketing"   
 
     - image : "images/teams/lucasfernandes.png" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Lucas Fernandes"
-      content : "Assessor de Marketing"   
-      
-    - image : "images/teams/adriano.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Adriano Silveira de Araújo Neto"
-      content : "Coordenador de Parcerias"   
+      content : "Assessor de Marketing"      
     
     - image : "images/teams/george.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "George Stenphenson Batista Benicio Junior"
+      name : "George Benicio"
       content : "Assessor de Parcerias" 
    
     - image : "images/teams/nai.png" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Naiarlisson Teixeira Fernandes"
+      name : "Naiarlisson Fernandes"
       content : "Assessor de Parcerias" 
       
     - image : "images/teams/vitoriamont.jpg" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Vitória Maciel Gurgel Montesuma"
+      name : "Vitória Gurgel"
       content : "Assessora de Parcerias" 
 #################################### testimonial & mission vision #######################################
 testimonial:
