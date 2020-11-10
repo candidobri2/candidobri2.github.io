@@ -7,7 +7,7 @@ about:
 
 
 
-Este ano, não poderia ser diferente. Iremos imergi-los na área do empreendedorismo, demonstrando a importância de ideias e mentes inovadoras para o mercado. Vem explorar a SEP conosco! 
+Este ano, não poderia ser diferente. Iremos imergi-los na área do empreendedorismo, demonstrando a importância de ideias e mentes inovadoras para o mercado. Vem explorar a SEP conosco! ESCOLHA SUA TRILHA!
 "
 
   button:
@@ -19,32 +19,32 @@ Este ano, não poderia ser diferente. Iremos imergi-los na área do empreendedor
     # funfacts loop
     - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Palestras"
-      count : "349"
+      count : "6"
       
     # funfacts loop
     - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Minicursos"
-      count : "35000"
+      count : "7"
       
     # funfacts loop
     - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Visitas técnicas"
-      count : "70"
+      name : "Talks Interativos"
+      count : "3"
       
     # funfacts loop
     - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Mesas redondas"
-      count : "15"
+      count : "6"
       
     # funfacts loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Pessoas alcançadas"
-      count : "75"
+      name : "Oficinas"
+      count : "6"
       
     # funfacts loop
     - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Empresas envolvidas"
-      count : "20"
+      name : "Empresas Envolvidas"
+      count : "999"
       
 ################################ feature #####################################
 features:
@@ -164,35 +164,33 @@ mission_vision:
     # tab item loop
     - name : "Visão"
       url: "visao"
-      content : "uidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+      content : "Nossa visão consiste em ocupar posição de referência no âmbito regional, como instrumento de empoderamento e desenvolvimento
+      qualificado da comunidade e do curso de Engenharia de Produção."
       
     # tab item loop
     - name : "Missão"
       url: "missao"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+      content : "Nossa missão é empoderar pessoas para integrar, desenvolver e promover a comunidade e o curso como enzimas para o desenvolvimento do Brasil atual, por meio da capacitação e a aproximação da realidade."
       
     # tab item loop
     - name : "Valores"
       url: "valores"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+      content :  "Nossos valores se baseiam em:  
+    
+
+    • Espírito de Equipe 
+   
+
+    • Responsabilidade 
+     
+
+    • Integridade 
+   
+
+    • Inconrfomismo prático
+  
+
+    • Senso de dono"
 
 
 ############################# call to action #################################
