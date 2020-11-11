@@ -91,7 +91,7 @@ description = "This is meta description"
 author = "PET Produção"
 # Contact Information
 phone = "994106831 | 987414628"
-email = "sep.ufc@gmail.com"
+email = "sep@ufc.br"
 location = "Campus do Pici | Universidade Federal do Ceará"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io

@@ -17,32 +17,32 @@ Este ano, não poderia ser diferente. Iremos imergi-los na área do empreendedor
 
   funfacts:
     # funfacts loop
-    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-speakerphone" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Palestras"
       count : "6"
       
     # funfacts loop
-    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-university" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Minicursos"
       count : "7"
       
     # funfacts loop
-    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-android-chat" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Talks Interativos"
       count : "3"
       
     # funfacts loop
-    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-person-stalker" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Mesas redondas"
       count : "6"
       
     # funfacts loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-settings" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Oficinas"
       count : "6"
       
     # funfacts loop
-    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-briefcase" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Empresas Envolvidas"
       count : "999"
       
